@@ -6,6 +6,13 @@
 
 <p>This list is designed to help you quickly find the right software for specific tasks across dozens of categories. From productivity tools and creative suites to security software, developer utilities, AI tools, and performance boosters — we've included only the most reliable, up-to-date, and widely recommended software options. Each tool includes a short, helpful description and a direct link to its official site.</p>
 
+<div align="center">
+  <a href="https://imgur.com/a/oLlxO0X" target="_blank">
+    <img src="https://imgur.com/h4niYLs.jpg" alt="Computer Software List Banner" style="max-width: 100%; height: auto; border-radius: 12px;">
+  </a>
+</div>
+
+
 <p>No more endless searching or guessing which app is best. Whether you're setting up a new computer, optimizing an old one, or just exploring new possibilities, this guide has you covered. We’ve also included great alternatives to popular software (like Adobe, AutoCAD, and Microsoft Office), powerful open-source options, free forever tools, and hidden gems that deserve more attention.</p>
 
 <p>Looking for something specific? Browse by category, explore best tool combinations, or use this list as a checklist when building your ideal workstation. If you love tech, you'll love what we've built here.</p>
